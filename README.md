@@ -1,4 +1,4 @@
-<h1>React eCommerce Site</h1>
+<h1>React eCommerce Site - Currently in Progress</h1>
 <h2>Tech Stack</h2>
 <ul>
   <li>React</li>
