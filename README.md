@@ -5,7 +5,7 @@
   <li>Firebase</li>
   <li>JS</li>
   <li>HTML/CSS</li>
-  <li>Redux: TODO</li>
-  <li>Stripe Payments: TODO</li>
+  <li>Redux</li>
+  <li>Stripe Payments</li>
   <li>GraphQL: TODO</li>
 </ul>
